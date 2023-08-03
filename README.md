@@ -1,4 +1,6 @@
 # DrawShapes-SwiftUI
+[![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://swift.org/)
+
 
 ### About
 A multi-platform app for creating shapes scaled to a __Map Area__ using pure `SwiftUI`.
